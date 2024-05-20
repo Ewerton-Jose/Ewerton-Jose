@@ -1,6 +1,6 @@
 <h1>Ewerton J.S. Farias</h1>
 
-<p>Desenvolverdor focado no Backend Gosto de misturar meus gostos pessoais com meus projetos!</p>
+<p>Desenvolverdor focado no Backend. Gosto de misturar meus gostos pessoais com meus projetos!</p>
 
 <div>
 <a href="https://github.com/Ewerton-Jose">
@@ -39,6 +39,7 @@
 <div>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="50px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="50px" />
           
  
 </div>
