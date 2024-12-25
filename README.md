@@ -8,7 +8,7 @@
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Ewerton-Jose&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-<h2>Linguagens and tools </h2>
+<h2>Languages and tools</h2>
 
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="125px" />
